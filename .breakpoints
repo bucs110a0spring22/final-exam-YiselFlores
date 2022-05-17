@@ -1,0 +1,20 @@
+{
+  "files": {
+    "Anime.py": [
+      {
+        "id": "379673ed-c577-46b2-8a96-57ceb48c733e",
+        "line": 22,
+        "version": 444,
+        "index": 486
+      }
+    ],
+    "Covid_numbers.py": [
+      {
+        "id": "fe50ca11-ceb1-44a7-b60d-420f808e6872",
+        "line": 20,
+        "version": 126,
+        "index": 583
+      }
+    ]
+  }
+}

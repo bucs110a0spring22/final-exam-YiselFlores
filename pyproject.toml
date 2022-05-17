@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "repl_python3_final-exam-YiselFlores"
+version = "0.1.0"
+description = ""
+authors = ["Yisel21 <<>>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+funcy = "^1.17"
+anime = "^1.1.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
